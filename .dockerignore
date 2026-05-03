@@ -1,0 +1,12 @@
+checkpoints/
+_upstream/
+__pycache__/
+*.safetensors
+*.bin
+*.gguf
+*.pth
+*.pt
+.venv/
+.env
+.git/
+.DS_Store
